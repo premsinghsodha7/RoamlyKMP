@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+<title id="title">Roamly mark</title>
+<rect width="128" height="128" rx="34" fill="#102c3a"/>
+<circle cx="91" cy="34" r="16" fill="#ffd79a"/>
+<path d="M14 82c13-4 19-24 37-26 10-1 16 5 22 13 12-16 20-24 33-22 7 1 12 8 12 17v43H14z" fill="#e5b778"/>
+<path d="m20 105 44-53 44 53z" fill="#e77f64"/>
+<path d="M59 79h10v26H59zM78 82h8v8h-8zM92 75h8v9h-8z" fill="#f3e2c6"/>
+</svg>
